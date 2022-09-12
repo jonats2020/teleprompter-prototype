@@ -16,6 +16,7 @@
     "@emotion/styled": "^11.10.4",
     "@mui/icons-material": "^5.8.4",
     "@mui/lab": "^5.0.0-alpha.93",
+    "@mui/material": "^5.10.5",
     "@mui/styles": "^5.9.3",
     "@mui/system": "^5.10.3",
     "@mui/x-date-pickers": "^5.0.0-beta.5",
@@ -68,6 +69,7 @@
     "serverless-finch": "^4.0.0",
     "serverless-scriptable-plugin": "^1.2.2",
     "smartystreets-javascript-sdk": "1.13.7",
+    "string-similarity": "^4.0.4",
     "twilio-client": "^1.14.0",
     "validator": "13.7.0"
   },
